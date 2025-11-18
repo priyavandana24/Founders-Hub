@@ -1,0 +1,8 @@
+{
+  "name": "Founders Hub",
+  "description": "Founders Hub is an AI-powered platform connecting founders, entrepreneurs, mentors, and investors. It provides AI matching, communication tools, a creative studio for asset generation, market research tools, and a real-time AI mentor.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
